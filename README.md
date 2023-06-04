@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Egisa
 - 👀 I’m interested in learning new programming skills.
-- 🌱 I’m currently learning Finnish language
+- 🌱 I’m currently learning Finnish language.
 - 💞️ I’m looking to collaborate on new internships.
 - 📫 How to reach me egisandina15@gmail.com
 
